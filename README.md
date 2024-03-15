@@ -1,2 +1,2 @@
-# CV-Builder
-small project to learn react
+# CV Builder
+small project to learn & apply my knowledge of react
